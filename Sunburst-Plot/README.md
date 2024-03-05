@@ -10,7 +10,7 @@ The data used for this project is a CSV file containing the information about th
 
 The objective of this project is to recreate the sunburst plot shown below, using Matplotlib. The plot shows the total number of video game consoles sold by Nintendo, Microsoft and Sony. The inner ring shows the total number of consoles sold per company, and the outer ring refines each company into their individual consoles. The consoles on the outer ring are ordered from largest number of units sold to smallest number of units sold in a clockwise fashion. The four consoles with the smallest number of units sold for Nintendo are not displayed (since that would create visual clutter). The colours of the inner ring are [#156eaf, #db2018, #56b45b] for Microsoft, Nintendo and Sony, and [#5599cc, #ea6727, #83c143] for the outer ring. The edge colours of the wedges are white. The labels of the inner ring are white in colour and on the interior, and the labels of the outer ring on the exterior.
 
-![Sunburst plot](/images/example_1.png)
+![Sunburst plot](/Sunburst-Plot/images/example_1.png)
 
 ## Project Steps
 
@@ -24,4 +24,4 @@ The project steps are as follows:
 
 ## Result
 
-![result_1](/output.png)
+![result_1](/Sunburst-Plot/output.png)

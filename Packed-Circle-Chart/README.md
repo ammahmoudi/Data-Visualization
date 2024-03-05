@@ -21,7 +21,7 @@ The data source has 1,234 rows and 4 columns, and is available [here](https://ww
 
 ## Result
 
-![Result1](/result_1.svg)
+![Result1](/Packed-Circle-Chart/result_1.svg)
 
 
 

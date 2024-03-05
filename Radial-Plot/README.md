@@ -23,4 +23,4 @@ The visualization is created using Matplotlib's polar projection. The following 
 
 ## Result
 
-![result_1](/output.png)
+![result_1](/Radial-Plot/output.png)

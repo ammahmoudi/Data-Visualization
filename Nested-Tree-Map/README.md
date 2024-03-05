@@ -34,8 +34,8 @@ The data source has 1,234 rows and 4 columns, and is available [here](https://ww
 
 ## Result
 
-![Result1](/nested_tree_map_1.svg)
+![Result1](/Nested-Tree-Map/nested_tree_map_1.svg)
 
-![Result1](/nested_tree_map_1.svg)
+![Result1](/Nested-Tree-Map/nested_tree_map_1.svg)
 
 
