@@ -6,10 +6,10 @@ Welcome to the Data Visualization repository! This collection features projects 
 
 | Project Name | Description | Result |
 | ------------ | ----------- | ----------- |
-| [Nested-Tree-Map](/Nested-Tree-Map) | An interactive visualization representing hierarchical data with nested rectangles. | ![](/Nested-Tree-Map/nested_tree_map_2.svg) |
-| [Packed-Circle-Chart](/Packed-Circle-Chart) | A circular layout method for displaying grouped or clustered data. | ![](/Packed-Circle-Chart/result.svg) |
-| [Radial-Plot](/Radial-Plot) | A graphical technique for displaying multivariate data in the form of a two-dimensional chart. | ![](/Radial-Plot/output.png) |
-| [Sunburst-Plot](/Sunburst-Plot) | A radial space-filling visualization to illustrate hierarchical relationships. | ![](/Sunburst-Plot/output.png) |
+| [Nested-Tree-Map](/Nested-Tree-Map) | An interactive visualization representing hierarchical data with nested rectangles. | ![result_1](/Nested-Tree-Map/nested_tree_map_2.svg) |
+| [Packed-Circle-Chart](/Packed-Circle-Chart) | A circular layout method for displaying grouped or clustered data. | ![result_2](/Packed-Circle-Chart/result.svg) |
+| [Radial-Plot](/Radial-Plot) | A graphical technique for displaying multivariate data in the form of a two-dimensional chart. | ![result_3](/Radial-Plot/output.png) |
+| [Sunburst-Plot](/Sunburst-Plot) | A radial space-filling visualization to illustrate hierarchical relationships. | ![result_4](/Sunburst-Plot/output.png) |
 
 For more details on each project, please refer to the README file located within the respective project folder.
 
